@@ -1,0 +1,42 @@
+#logo {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+header {
+    display: flex;
+    width: 100%;
+    height: 80px;
+    justify-content: space-between;
+    background-color: #EDDCC8;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    width: 30%;
+    justify-content: space-around;
+    margin: 0px;
+}
+
+.buttonIniciarProjeto {
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #A25F29;
+    border: none;
+}
+
+nav a {
+    text-decoration: none;
+    color: #311d0d;
+    font-family: "Poppins", sans-serif;
+}
+
+.anchorInicarProjeto {
+    font-size: 16px;
+    color: white;
+}

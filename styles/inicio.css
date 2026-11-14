@@ -1,0 +1,13 @@
+h1 {
+    color: #211200;
+    margin: auto;
+    text-align: center; 
+    width: 200px;
+    font-family: 'Saira', sans-serif;
+    font-weight: 300;
+    line-height: 1;
+}
+
+#destaqueId {
+    color: #A2572D;
+}
